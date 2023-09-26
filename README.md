@@ -3,10 +3,9 @@
 
 Coloquen su Nombre y Apellido en la lista
 ------------------------------------------------
-Edgardo Padovan
--
--
--
--
+- Edgardo Padovan
+- Daniel Córdoba
+- Walter Valle
+- Celeste Ceratto
 
 
