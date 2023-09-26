@@ -3,7 +3,7 @@
 
 Coloquen su Nombre y Apellido en la lista
 ------------------------------------------------
--Jose W.
+- Jose W.
 - Juan Andrada
 - María José Ponce
 - Edgardo Padovan
