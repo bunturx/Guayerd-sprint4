@@ -4,6 +4,7 @@
 Coloquen su Nombre y Apellido en la lista
 ------------------------------------------------
 
+- Juan Andrada
 - María José Ponce
 - Edgardo Padovan
 - Daniel Córdoba
