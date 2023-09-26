@@ -3,10 +3,10 @@
 
 Coloquen su Nombre y Apellido en la lista
 ------------------------------------------------
-Juan Andrada
--
--
--
--
 
-
+- Juan Andrada
+- María José Ponce
+- Edgardo Padovan
+- Daniel Córdoba
+- Walter Valle
+- Celeste Ceratto
