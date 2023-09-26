@@ -12,3 +12,4 @@ Coloquen su Nombre y Apellido en la lista
 - Celeste Ceratto
 - Alejandra Maldonado
 - Sol Rodríguez
+- Juan Pablo Massa
