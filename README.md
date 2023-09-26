@@ -11,3 +11,5 @@ Coloquen su Nombre y Apellido en la lista
 - Walter Valle
 - Celeste Ceratto
 - Alejandra Maldonado
+
+- Juan Pablo Massa
